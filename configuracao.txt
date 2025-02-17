@@ -1,0 +1,6 @@
+git config --global user.name ane-noelle
+git config --global user.email anenoelle60@gmail.com
+
+
+
+npx create-expo-app@latest SilvinhaHealthApp --template blank
