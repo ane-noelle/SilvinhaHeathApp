@@ -4,3 +4,8 @@ git config --global user.email anenoelle60@gmail.com
 
 
 npx create-expo-app@latest SilvinhaHealthApp --template blank
+
+ Para iniciar o projeto no celular:
+cd .\SilvinhaHealthApp\
+npm i 
+npx expo start --localhost --android
